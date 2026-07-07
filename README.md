@@ -2,7 +2,7 @@
 
 [![Flutter](https://img.shields.io/badge/Platform-Flutter-blue.svg)](https://flutter.dev/)
 [![Android](https://img.shields.io/badge/Platform-Android-green.svg)](https://developer.android.com/)
-[![Release](https://img.shields.io/badge/Release-APK%20Ready-success.svg)](release/Siddhivinayak Access.apk)
+[![Release](https://img.shields.io/badge/Release-APK%20Ready-success.svg)](release/Siddhivinayak%Access.apk)
 
 Official companion mobile application for the **SentinelGate** smart lock system deployed at **Siddhivinayak CHS (Co-operative Housing Society)**.
 
